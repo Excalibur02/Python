@@ -22,3 +22,4 @@ down_speed = test.download()
 print(f"Upload Speed : {format_bytes(up_speed)} MB")
 print(f"Download Speed : {format_bytes(down_speed)} MB")
 
+
