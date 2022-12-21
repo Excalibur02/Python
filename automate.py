@@ -17,3 +17,5 @@ for i in range(1):
      screen.typewrite(message,0.000001)
      screen.moveTo(sendx,sendy, duration = 0.000001)   
      screen.click(sendx,sendy,1,0.000001,'left')
+
+     
